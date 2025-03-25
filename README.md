@@ -1,2 +1,1 @@
-#TO BE CHANGED:
-#The 'Added to Cart' button does not change back to 'Add to Cart' after removing the product from the cart
+#TO BE CHANGED: the 'Added to Cart' button does not change back to 'Add to Cart' after removing the product from the cart
